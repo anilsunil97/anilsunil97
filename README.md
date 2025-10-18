@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @anilsunil97
-- 👀 I’m interested in women.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me through email anilsunil97@gmail.com
