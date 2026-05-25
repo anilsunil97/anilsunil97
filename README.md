@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anilsunil97
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Anil Kumar
+- 🌱 I’m currently learning python, ML and Generative AI
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me through email anilsunil97@gmail.com
 - 
